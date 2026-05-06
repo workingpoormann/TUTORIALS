@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+:root {
+  max-height: 100%;
+  max-width: 1120px;
+  background-color: #101828;
+}
