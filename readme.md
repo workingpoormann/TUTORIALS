@@ -5,3 +5,7 @@
 ### Todo list app
 
 ![Todo List App](./mimo/todo-list-app/img-todo.png)
+
+### Ascii Converter
+
+![Ascii Converter ](./mimo/ascii_converter/ascII_converter.png)
