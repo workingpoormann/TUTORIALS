@@ -7,6 +7,7 @@
 - [Ascii Converter](https://mimo.org/blog/react-projects-for-beginners#ascii-converter)
 - [Wordle](https://mimo.org/blog/react-projects-for-beginners#wordle-clone)
 - [QR code generator & scanner](https://mimo.org/blog/react-projects-for-beginners#score-keeper)
+- [Pokedex](https://mimo.org/blog/react-projects-for-beginners#pokedex-app)
 
 ## [JavaScript Projects](https://www.100jsprojects.com/)
 
