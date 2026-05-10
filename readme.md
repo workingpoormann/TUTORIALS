@@ -1,9 +1,12 @@
 # Tutorials
 
-## [React Projects for beginners@Mimo](https://mimo.org/blog/react-projects-for-beginners#pokedex-app)
+## [React Projects for beginners@Mimo](https://mimo.org/blog/react-projects-for-beginners)
 
-- [Todo List App](./mimo/todo-list-app/img-todo.png)
-- [Ascii Converter ](./mimo/ascii_converter/ascII_converter.png)
+- [Todo List App](https://mimo.org/blog/react-projects-for-beginners#to-do-list-app)
+- [Score Keeper](https://mimo.org/blog/react-projects-for-beginners#score-keeper)
+- [Ascii Converter](https://mimo.org/blog/react-projects-for-beginners#ascii-converter)
+- [Wordle](https://mimo.org/blog/react-projects-for-beginners#wordle-clone)
+- [QR code generator & scanner](https://mimo.org/blog/react-projects-for-beginners#score-keeper)
 
 ## [JavaScript Projects](https://www.100jsprojects.com/)
 
