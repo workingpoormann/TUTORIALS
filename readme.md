@@ -14,3 +14,5 @@
 - [Pomodoro TImer](https://www.100jsprojects.com/project/pomodoro-timer)
 
 ## [The Odin Project](https://www.theodinproject.com/)
+
+- [Project: Memory Card](https://www.theodinproject.com/lessons/node-path-react-new-memory-card)
