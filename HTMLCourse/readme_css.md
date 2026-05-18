@@ -231,3 +231,83 @@ a:hover {
   font-weight: bold;
 }
 ```
+
+## 競合CSS Selector
+
+最優先のCSS : conflicting selectors
+
+```css
+// あらゆる効果を押しのけて最優先にする
+a !important {
+}
+```
+
+## CSS Inheritance
+
+```html
+<p>Hello <strong>Laura Jones</strong></p>
+```
+
+```css
+body {
+  color: #444;
+  font-family: sans-serif;
+}
+```
+
+```css
+body {
+  color: red;
+}
+
+p {
+  color: blue;
+}
+```
+
+```css
+body {
+  color: red;
+  font-family: "Monolice";
+  line-height: 12px;
+}
+```
+
+- Universal Selector
+
+nav内のテキスト要素が全て18pxを継承する
+
+```css
+nav {
+  font-size: 18px;
+}
+```
+
+以下のnavを全て継承するので全部書かなくてよい
+
+```css
+nav a {
+}
+nav strong {
+}
+nav p {
+}
+```
+
+全要素へ直接適用する
+
+```css
+* {
+  border-top: 1px solid blue;
+}
+```
+
+```css
+* {
+  color: blue;
+}
+
+p {
+  color: red;
+}
+```
